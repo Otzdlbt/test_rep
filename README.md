@@ -3,6 +3,5 @@ just test network
 
 
 add some
-add some
 
-modtfy some
+add some2
